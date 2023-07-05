@@ -1,7 +1,7 @@
 <h1 align="center"> Alura Spa </h1>
 
 <p align="center">
-AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celulares, tablets e desktops. <br/>
+AluraSpa, é um site de SPA que foi todo estilizado utilizando a aplicação SASS. <br/>
 </p>
 
 <p align="center">
